@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bluebmt
-- 👀 I’m interested in DataBase, Backend,Angular,C#
+- 👀 I’m interested in DataBase SQL Server,Oracle, Backend ,Angular,C#
 - 🌱 I’m currently learning AWS,AI
 
 
