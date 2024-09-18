@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataBase SQL Server,Oracle, Backend ,Angular,C#
 - 🌱 I’m currently learning AWS,AI
 - Hobby :
--  Sport  :Football,Tabletennis
+-  Sport  :Football,Table tennis
 -  Esport :Dota2,CS2
 
 
