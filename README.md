@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bluebmt
 - 👀 I’m interested in DataBase SQL Server,Oracle, Backend ,Angular,C#
-- 🌱 I’m currently learning AWS,AI
+- 🌱 I’m currently learning AI
 - Hobby :
 -  Sport  :Football,Table tennis
 -  Esport :Dota2,CS2
